@@ -29,14 +29,17 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1duEVSY_JHaCnWp_YMBwIxjKpe7IiLp4R/view?usp=sharing)
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshancoder&label=Profile%20views&color=0e75b6&style=flat" alt="darshancoder" /> </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+<h3 text-align="center">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshancoder" alt="darshancoder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/darshan99944200" target="blank"><img src="https://img.shields.io/twitter/follow/darshan99944200?logo=twitter&style=for-the-badge" alt="darshan99944200" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,NodeJS,Express,Redux,MongoDB**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
