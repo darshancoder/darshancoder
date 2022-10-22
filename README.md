@@ -93,9 +93,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align="center">📊 My Github Stats</h2>
-   <br/> 
+   <br/> <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshancoder&show_icons=true&locale=en&layout=compact" alt="darshancoder" /></p>
 <br/>
+<br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshancoder&show_icons=true&locale=en" alt="darshancoder" /></p><br/>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshancoder&" alt="darshancoder" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshancoder&" alt="darshancoder" /></p><br/><br/>
