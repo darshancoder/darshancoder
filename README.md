@@ -8,7 +8,27 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=A Full-stack%20web%20developer from India 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
+<div style={{width:"300px", height:"300", marginTop:"500px"}}>
+<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a42b3n48m5m22lwh4gzsuqdb8fef2m1sdioobrc2&rid=giphy.gif&ct=g" alt="">
 
+
+# 💫 About Me:
+- 👯 I’m looking to collaborate on Good Tech Skills<br>
+
+- 😎 Interested in frontent technologies....<br>
+
+- 🙂 Self Motivated<br>
+
+- 🌱 I’m currently lerning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [My portfolio](https://darshancoder.github.io/)
+
+- 💬 Ask me about **HTML,CSS,JavaScript,React,NodeJS,Express,Redux,MongoDB**
+
+- 📫 How to reach me **darshankale52@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1euCvjYR9Wt9TTHX8C_wCLf0Pb_TaXd1F/view?usp=sharing)
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshancoder&label=Profile%20views&color=0e75b6&style=flat" alt="darshancoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshancoder" alt="darshancoder" /></a> </p>
