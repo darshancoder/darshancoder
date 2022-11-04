@@ -1,4 +1,4 @@
-<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+<img style="position: relative;" src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
